@@ -2,7 +2,7 @@ package com.learning.design.pattern.singletonDesignPattern;
 
 public class SingletonDesignPattern {
 		
-		// This is Lazy initialization of Object: only when the first call comes, object will be create.
+	// This is Lazy initialization of Object: only when the first call comes, object will be create.
 	
 	
 //	private static SingletonDesignPattern  lazyObject; //static variables don't need to initialize with any value default is null
